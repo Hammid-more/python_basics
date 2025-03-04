@@ -1,3 +1,4 @@
-My plans for learning python
+04/03/2025
 
-Will be lerning the basics and the advance level
+My plans for learning python is to learn from the basic to the advance level by getting to know the functions and character. Attending everyday's class and extensive practice will help to do a meaningful project with python 
+
