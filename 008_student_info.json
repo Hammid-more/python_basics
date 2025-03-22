@@ -1,0 +1,22 @@
+ 
+{
+	"students": {"name": "Hammid",  "age": 15,  "class": "ss2"},
+        "subject":  ["maths", "english", "economics"],
+	"contact_details":  "08184089961",
+	"email":  "hammidmore@gmail.com"
+}
+
+
+{
+	"student": {"name":  "Ola",  "age": 18, "class": "ss3"},
+	"subject": ["account",  "commerce"  "biology"],
+	"contact_details":  "09168061377",
+	"email":  "lawhammed45@gmail.com",
+}
+
+{
+	"student": {"name":  "Dayaan", "age": 2, "class": "ss2"},
+	"subject": ["maths",  "physics"  "chemistry"],
+	"contact_details":   "2349075760362",
+	"email":   "Nil",
+}
